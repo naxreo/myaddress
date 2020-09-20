@@ -1,5 +1,5 @@
 ### My Address ###
-use azr-api to create domain name such as .at.kakaocorp.com
+use azr-api to create domain name such as .at
 
 
 
